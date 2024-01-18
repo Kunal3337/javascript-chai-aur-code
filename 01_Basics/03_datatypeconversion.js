@@ -29,3 +29,4 @@ let kum = Number(kun)
 console.log(kum)
 
 //true = 1 || false = 0
+

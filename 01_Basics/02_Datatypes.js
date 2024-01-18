@@ -18,5 +18,4 @@ symbol => It is used to show uniqueness
 */
 
 //Object
-console.log(typeof undefined); // In Terminal the output will be undefined 
-console.log(typeof null); // In Terminal the output will be object
+console.log(typeof 18);
