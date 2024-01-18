@@ -4,6 +4,9 @@
 // console.log(2==1);
 // console.log(2!=3);
 
+console.log("2" > 1)
+console.log("02" > 1)
+
 console.log(null > 0)
 console.log(null == 0)
 console.log(null >= 0)
@@ -27,6 +30,6 @@ False
 */
 
 console.log("2" == 2) // The Output will be TRUE as it coverts automatically string to number
-console.log("2" === 2) // The Output will be FALSE as it not coverts automatically string to number
+console.log("2" === 2) // The Output will be FALSE as it not coverts datatypes automatically to string to number
 
 
