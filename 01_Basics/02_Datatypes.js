@@ -16,6 +16,18 @@ Null => Stand alone Value
 undefined => this means we haven't assign anything
 symbol => It is used to show uniqueness
 */
+/*1) Primitive Datatypes
+       Number => number
+       String  => string
+       Boolean  => boolean
+       null  => object
+       undefined  =>  undefined
+       Symbol  =>  symbol
+       BigInt  =>  bigint
 
+2) Non-primitive Datatypes
+       Arrays  =>  object
+       Function  =>  function
+       Object  =>  object */
 //Object
 console.log(typeof 18);
